@@ -1,0 +1,13 @@
+{
+    
+  "identityProof": "Aadhaar",
+  "addressProof": "Utility Bill",
+  "incomeProofType": "Salary Slips",
+  "employmentProof": "Offer Letter",
+  "photograph": "https://example.com/photo.jpg",
+  "bankDetails": {
+    "accountNumber": "1234567890",
+    "ifscCode": "SBIN0001234"
+  },
+  "panCard": "ABCDE1234F"
+}

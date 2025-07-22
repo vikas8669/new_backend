@@ -1,0 +1,11 @@
+{
+  "age": 25,
+  "monthlyIncome": 30000,
+  "employmentType": "Salaried",
+  "skippedEMI": false,
+  "unpaidLoanDues": false,
+  "settledLoanForLess": false,
+  "defaultedCreditCard": false,
+  "city": "Delhi",
+  "isResidentIndianCitizen": true
+}
